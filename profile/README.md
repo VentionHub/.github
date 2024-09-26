@@ -4,7 +4,7 @@ Welcome to our GitHub organization!
 
 ## Vention
 
-![Company Logo](link-to-your-company-logo.png)
+![Company Logo](https://github.com/VentionHub/.github/blob/main/profile/team-og.png)
 
 ## About the Company
 [Vention] is dedicated to [brief description of what your company does, e.g., providing innovative solutions in the field of AI, developing scalable e-commerce platforms, etc.]. Our mission is to [describe your mission, e.g., empower businesses with cutting-edge technology and expertise]. 
