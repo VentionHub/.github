@@ -4,7 +4,7 @@ Welcome to our GitHub organization!
 
 ## Vention
 
-<img src="https://github.com/VentionHub/.github/raw/main/profile/team-og.png" alt="Company Logo" width="100%" height="300" />
+<img src="https://github.com/VentionHub/.github/raw/main/profile/team-og.png" alt="Company Logo"  height="400" />
 
 
 ## About the Company
