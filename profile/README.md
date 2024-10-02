@@ -2,12 +2,12 @@
 
 Welcome to our GitHub organization!
 
-## Vention
+## Ynovate
 
-<img src="https://github.com/VentionHub/.github/raw/main/profile/team-og.png" alt="Company Logo"  height="400" />
+<img src="https://github.com/VentionHub/.github/raw/main/profile/logo.png" alt="Company Logo"  height="400" />
 
 
 ## About the Company
-Vention is a company that provides a digital manufacturing platform for designing, ordering, and commissioning custom industrial equipment. Founded in 2016, it combines plug-and-play automation components with engineering software to streamline the creation of automated equipment like robot cells and assembly lines. Vention's platform enables engineers to design their solutions in as little as three days and integrates an e-commerce experience for easy ordering.
+Ynovate is a cutting-edge IT solutions provider dedicated to empowering businesses through innovative technology. Our mission is to deliver tailored IT services that enhance operational efficiency, boost productivity, and drive digital transformation. 
 
 We invite you to explore our repositories, contribute to our projects.
