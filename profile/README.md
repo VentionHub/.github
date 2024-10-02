@@ -4,7 +4,7 @@ Welcome to our GitHub organization!
 
 ## Ynovate
 
-<img src="https://github.com/VentionHub/.github/raw/main/profile/logo.png" alt="Company Logo"  height="400" />
+<img src="https://github.com/VentionHub/.github/raw/main/profile/logo.png" alt="Company Logo"  height="300" />
 
 
 ## About the Company
